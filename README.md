@@ -14,5 +14,5 @@ An experienced **IT Support & Network Engineer** and **Ethical Hacker** passiona
 * Open to freelance remote IT support, network architecture design, and security auditing gigs.
 
 ## 📬 Connect With Me
-* **Instagram:** [@cybersecurity_with_abdulrehman](https://instagram.com/cybersecurity_with_abdulrehman)
+* **Instagram:** [@cybersecurity_with_abdulrehman](https://instagram.com/cybersecurity.with.abdulrehman)
 * **Email:** ar229418@gmail.com
