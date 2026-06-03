@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Abdul Rehman 👋
 
-<!--
-**cybersecurity-with-abdulrehman/cybersecurity-with-abdulrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An experienced **IT Support & Network Engineer** and **Ethical Hacker** passionate about securing network infrastructures, optimizing data transfer speeds, and eliminating downtime for businesses.
 
-Here are some ideas to get you started:
+## 🛡️ Technical Expertise
+* **Networking:** Router & Switch Configuration (Cisco), VPN Setup, Routing Protocols, Firewalls
+* **Cyber Security:** Vulnerability Assessment, Penetration Testing, Incident Reporting, MFA Implementation
+* **Systems:** Linux (Ubuntu, Kali, Xubuntu), Windows Server Maintenance, System Architecture & Diagnostics
+* **Automation:** Python Programming & System Administration Scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Am Working On
+* Documenting automated network monitoring configurations.
+* Building secure virtualization environments for advanced penetration testing.
+* Open to freelance remote IT support, network architecture design, and security auditing gigs.
+
+## 📬 Connect With Me
+* **Instagram:** [@cybersecurity_with_abdulrehman](https://instagram.com/cybersecurity.with.abdulrehman)
+* **Email:** ar229418@gmail.com
